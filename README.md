@@ -1,1 +1,1 @@
-# faculty-direcctory-scraper
+# faculty-directory-scraper
